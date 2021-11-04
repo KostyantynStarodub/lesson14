@@ -20,7 +20,7 @@ h1{
 form{
     border: 1px solid black;
     border-radius: 25px;
-    width: 70%;
+    width: 75%;
     height: 80%;
     margin: 20px auto;
     background-color: rgb(241, 248, 202);
@@ -90,7 +90,7 @@ button{
     height: 30px;
     border-radius: 10px;
 }
-@media screen and (max-width: 860px){
+@media screen and (max-width: 803px){
     form{
         height: 100%;
     }
