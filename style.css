@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 body{
-    background: linear-gradient(90deg, #dd03e4, #5611ec);
+    background: url(./img/space.jpg) no-repeat;
+    background-size: cover;
 }
 *{
     margin: 0;
