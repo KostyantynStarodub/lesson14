@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 body{
-    background: url(./img/space.jpg) no-repeat;
-    background-size: cover;
+    background: url(./img/imgpreview.jfif);
+    background-size: 100%;
 }
 *{
     margin: 0;
